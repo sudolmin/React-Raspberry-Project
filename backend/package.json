@@ -7,6 +7,9 @@
     "server": "node ./api/restserve.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "14.16.0"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
